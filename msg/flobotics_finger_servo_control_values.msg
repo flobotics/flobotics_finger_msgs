@@ -1,0 +1,17 @@
+Header header
+int8 servo0
+int8 servo1
+int8 servo2
+int8 servo3
+int8 servo4
+int8 servo5
+int8 servo6
+int8 servo7
+int8 servo8
+int8 servo9
+int8 servo10
+int8 servo11
+int8 servo12
+int8 servo13
+int8 servo14
+int8 servo15
